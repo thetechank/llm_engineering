@@ -9,6 +9,8 @@ scikit-learn
 matplotlib
 gensim
 torch
+torchvision
+torchaudio
 transformers
 tqdm
 openai
@@ -40,3 +42,5 @@ setuptools
 speedtest-cli
 sentence_transformers
 feedparser
+diffusers
+soundfile
